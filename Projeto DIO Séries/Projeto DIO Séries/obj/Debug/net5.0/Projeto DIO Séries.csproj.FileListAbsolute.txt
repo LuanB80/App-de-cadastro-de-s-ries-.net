@@ -1,0 +1,16 @@
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\obj\Debug\net5.0\Projeto DIO Séries.csproj.AssemblyReference.cache
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\obj\Debug\net5.0\Projeto DIO Séries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\obj\Debug\net5.0\Projeto DIO Séries.AssemblyInfoInputs.cache
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\obj\Debug\net5.0\Projeto DIO Séries.AssemblyInfo.cs
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\obj\Debug\net5.0\Projeto DIO Séries.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\bin\Debug\net5.0\Projeto DIO Séries.exe
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\bin\Debug\net5.0\Projeto DIO Séries.deps.json
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\bin\Debug\net5.0\Projeto DIO Séries.runtimeconfig.json
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\bin\Debug\net5.0\Projeto DIO Séries.runtimeconfig.dev.json
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\bin\Debug\net5.0\Projeto DIO Séries.dll
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\bin\Debug\net5.0\ref\Projeto DIO Séries.dll
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\bin\Debug\net5.0\Projeto DIO Séries.pdb
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\obj\Debug\net5.0\Projeto DIO Séries.dll
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\obj\Debug\net5.0\ref\Projeto DIO Séries.dll
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\obj\Debug\net5.0\Projeto DIO Séries.pdb
+C:\Users\Luan\Desktop\Programação\Boot camp c#\Projeto DIO Séries\Projeto DIO Séries\obj\Debug\net5.0\Projeto DIO Séries.genruntimeconfig.cache
